@@ -1,0 +1,10 @@
+.form--addUser {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+}
+
+.form--addUser .form--checkbox {
+	border-radius: 0;
+}
+

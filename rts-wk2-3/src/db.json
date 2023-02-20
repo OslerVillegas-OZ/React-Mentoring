@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Osler",
+      "lastName": "Villegas",
+      "email": "osler.vilegas@mail.com",
+      "isActive": true,
+      "imgURL": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg"
+    },
+    {
+      "id": 2,
+      "firstName": "Jhon",
+      "lastName": "Wick",
+      "email": "jhon.wick@mail.com",
+      "isActive": false,
+      "imgURL": "https://i.pinimg.com/564x/b0/61/c4/b061c42b23bada9142932afd82478959.jpg"
+    },
+    {
+      "id": 3,
+      "firstName": "Tobio",
+      "lastName": "Kageyama",
+      "email": "tobio.kageyam@mail.com",
+      "isActive": true,
+      "imgURL": "https://i.pinimg.com/originals/28/39/ce/2839cecc583f86d6140885f7ac82e075.jpg"
+    },
+    {
+      "firstName": "Wick",
+      "lastName": "Uzumaki",
+      "email": "uzumaki@mail.com",
+      "isActive": true,
+      "imgURL": "https://i.pinimg.com/originals/28/39/ce/2839cecc583f86d6140885f7ac82e075.jpg",
+      "id": 4
+    },
+    {
+      "firstName": "Naruto",
+      "lastName": "Uzumaki",
+      "email": "uzumaki@mail.com",
+      "isActive": true,
+      "imgURL": "https://i.pinimg.com/originals/28/39/ce/2839cecc583f86d6140885f7ac82e075.jpg",
+      "id": 5
+    }
+  ]
+}
